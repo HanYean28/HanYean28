@@ -1,4 +1,4 @@
-- 👋 Hi, I’m someone
+- 👋 Hi, I’m Han
 - 👀 I’m interested in something
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate with someone
